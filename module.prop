@@ -1,0 +1,6 @@
+id=restore_dialer
+name=Restore crDroid Dialer and Messages
+version=2021.02.06
+versionCode=20210206
+author=Pycm
+description=Restore crDroid Dialer and Messages after Gapps installing
